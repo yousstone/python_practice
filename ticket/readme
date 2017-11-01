@@ -1,3 +1,5 @@
+该脚本用于爬取12306，火车信息，并以表格的形式打印在屏幕中
+
 运行格式:
 python3 tickets.py <from_station> <to_station> <date>
 <date>应为今天及以后
