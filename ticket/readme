@@ -1,0 +1,23 @@
+运行格式:
+python3 tickets.py <from_station> <to_station> <date>
+<date>应为今天及以后
+
+运行方式:
+
+cd tickets所在目录
+1、 python3 tickets.py 上海 北京 2017-11-03
+2、 ./tickets.py 北京 武汉 2017-11-03
+任意位置：
+3、 tickets 成都 南昌 2017-11-05
+
+
+参考资料
+
+实验楼项目:
+https://www.shiyanlou.com/courses/running?stoplab
+文档地址:
+https://www.shiyanlou.com/courses/623/labs/2072/document
+
+
+掘金：从零开始写Python爬虫 --- 爬虫应用： 12306火车票信息查询
+https://juejin.im/entry/596ed0fd518825499558656e
